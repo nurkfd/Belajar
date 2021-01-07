@@ -1,0 +1,5 @@
+@media print{
+	.cetak, .tambah, .edit, .logout{
+		display: none;
+	}
+}
